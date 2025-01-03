@@ -1,0 +1,2 @@
+Feature:
+  - head-branch: ["^feature", "feature"]
